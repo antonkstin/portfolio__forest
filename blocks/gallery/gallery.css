@@ -1,0 +1,13 @@
+@import url(./__container/gallery__container.css);
+@import url(./__intro/gallery__intro.css);
+@import url(./__text/gallery__text.css);
+@import url(./__grid/gallery__grid.css);
+@import url(./__grid-image/gallery__grid-image.css);
+@import url(./__image-out/gallery__image-out.css);
+
+.gallery {
+    padding: 65px 220px;
+    display: flex;
+    justify-content: space-between;
+    height: 670px;
+}
