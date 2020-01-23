@@ -1,11 +1,11 @@
-@import url(./__button/footer__button.css);
-@import url(./__text/footer__text.css);
-@import url(./__input/footer__input.css);
-@import url(./__ending-title/footer__ending-title.css);
-@import url(./__form-button/footer__form-button.css);
-@import url(./__secret/footer__secret.css);
-@import url(./__ending/footer__ending.css);
-@import url(./__ending-answer/footer__ending-answer.css);
+@import url(./footer__button/footer__button.css);
+@import url(./footer__text/footer__text.css);
+@import url(./footer__input/footer__input.css);
+@import url(./footer__ending-title/footer__ending-title.css);
+@import url(./footer__form-button/footer__form-button.css);
+@import url(./footer__secret/footer__secret.css);
+@import url(./footer__ending/footer__ending.css);
+@import url(./footer__ending-answer/footer__ending-answer.css);
 
 .footer {
     position: relative;

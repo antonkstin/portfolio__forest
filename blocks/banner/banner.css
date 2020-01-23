@@ -1,5 +1,5 @@
-@import url(./__button/banner__button.css);
-@import url(./__text/banner__text.css);
+@import url(./banner__button/banner__button.css);
+@import url(./banner__text/banner__text.css);
 
 .banner {
     height: 325px;

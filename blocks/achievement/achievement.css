@@ -1,6 +1,6 @@
-@import url(./__image/achievement__image.css);
-@import url(./__title/achievement__title.css);
-@import url(./__text/achievement__text.css);
+@import url(./achievement__image/achievement__image.css);
+@import url(./achievement__title/achievement__title.css);
+@import url(./achievement__text/achievement__text.css);
 
 .achievement {
     opacity: 0.95;

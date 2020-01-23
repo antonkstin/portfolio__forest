@@ -1,6 +1,6 @@
-@import url(./__title/header__title.css);
-@import url(./__subtitle/header__subtitle.css);
-@import url(./__text/header__text.css);
+@import url(./header__title/header__title.css);
+@import url(./header__subtitle/header__subtitle.css);
+@import url(./header__text/header__text.css);
 
 .header {
     margin-top: 150px;
